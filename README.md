@@ -12,3 +12,5 @@ Fabric API — Required when running Aetherium on Fabric.
 Required mod loader
 Fabric Loader — Version 0.19.5 or newer.
 NeoForge — Version 26.3.0.23-beta or newer.
+
+This pack was specially made for Apple M1 and an optimized vulkan version of Seus ptgi hrr 2.1.
